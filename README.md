@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Gilberto A Haro, a full-time FrontEnd developer 👨‍💻 </div>  
+### <div align="center">I'm Gilberto A Haro, a full-time Front-end developer </div>  
   
 
 - 🔭 I’m currently working at [Robert Half](https://www.roberthalf.com/us/en)  
