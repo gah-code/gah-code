@@ -5,17 +5,8 @@
 </div>  
   
 
-### <div align="center">I'm Gilberto A Haro, a full-time Front-end developer </div>  
-  
-
-- 🔭 I’m currently working at [Robert Half](https://www.roberthalf.com/us/en)  
-  
-
-- 🌱 I’m currently learning everything about design patterns   
-  
-
-- ⚡ Fun fact: Photography led me toward web development  
-  
+### <div align="center">I'm Gilberto A Haro, a Web developer based out of Bay Area</div>  
+    
 
 <br/>  
 
@@ -24,8 +15,6 @@
 <table><tr><td valign="top" width="100%">
 
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
