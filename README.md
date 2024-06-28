@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Gilberto A Haro, a Web developer based out of Bay Area</div>  
+### <div align="left">I'm Gilberto A Haro, a Web developer based out of the Bay Area</div>  
     
 
 <br/>  
