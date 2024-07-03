@@ -5,13 +5,13 @@
 </div>  
   
 
-### <div align="left">I'm Gilberto A Haro, a Web developer based out of the Bay Area</div>  
+### <div align="left">I'm Gilberto A Haro</div>  
     
 
 <br/>  
 
 
-## My Skill Set  
+## What I've been building with 
 <table><tr><td valign="top" width="100%">
 
 
