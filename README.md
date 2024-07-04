@@ -1,16 +1,3 @@
-## Hi there 👋
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="left">I'm Gilberto A Haro</div>  
-    
-
-<br/>  
-
-
 ## What I've been building with 
 <table><tr><td valign="top" width="100%">
 
