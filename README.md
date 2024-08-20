@@ -1,7 +1,9 @@
 ## What's Up?
-
-
+I'm Gilberto A. Haro
 <br/>  
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,redux,graphql,md,astro,nextjs,vite,figma,netlify,npm,obsidian,ps,webpack&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
