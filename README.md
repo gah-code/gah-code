@@ -1,8 +1,5 @@
 ## What's Up?
 
-![gah-code's Stats](https://github-readme-stats.vercel.app/api?username=gah-code&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,redux,graphql,md,astro,nextjs,vite,figma,netlify,npm,obsidian,ps,webpack&perline=7)](https://skillicons.dev)
