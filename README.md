@@ -2,7 +2,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,redux,graphql,md,astro,supabase,nextjs,vite,figma,netlify,npm,obsidian,ps,wordpress,typescript,mongodb,webpack&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,redux,graphql,md,astro,supabase,nextjs,vite,figma,netlify,npm,obsidian,ps,wordpress,typescript,mongodb,cloudflare,webpack&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
