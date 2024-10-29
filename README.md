@@ -18,6 +18,10 @@
 <a href="https://www.instagram.com/g_optics/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.figma.com/design/wQj36CdFHUEHxVd82tcbZU/Wireframing-in-Figma?node-id=107-275&t=Y0nCSIuXbcpE6ECT-1" target="_blank">
+<img src=https://img.shields.io/badge/figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" />
+</a>  
+
   
 
 
