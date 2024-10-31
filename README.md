@@ -1,7 +1,18 @@
-## What's Up?
+# About
+
+Hi there! I'm a web developer with a knack for creative technical challenges, particularly in content management systems and design-driven development. My journey in tech started before the pandemic, rooted in a background in photography and film, which continues to shape my approach to development. I'm passionate about building digital experiences that are both functional and visually captivating.
+
+My work is driven by:
+- **Creative Problem-Solving:** I thrive on projects that balance technical skill with a creative vision, leveraging design systems to enhance user experience and accessibility.
+- **Content Management Proficiency:** With extensive experience in various CMS platforms, I streamline content workflows to empower editors and designers to tell their stories effortlessly.
+- **Attention to Visuals:** My background in visual media informs my eye for design, resulting in a nuanced approach to web aesthetics and interactivity.
+
+Here, you'll find a collection of my projects, demos, and explorations. Each repository reflects my commitment to continuous learning, attention to detail, and dedication to delivering thoughtful, high-quality code. Whether refining the backend of a CMS, building responsive frontends, or experimenting with new technologies, I'm always looking to expand my skill set and collaborate on projects that push boundaries.
+
+Let's build something beautiful and functional!
 
 
-## Tech Stack
+## Toolkit
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,redux,graphql,md,astro,supabase,nextjs,vite,figma,netlify,npm,obsidian,ps,wordpress,typescript,mongodb,cloudflare,emotion,notion,webpack,jest,d3&perline=7)](https://skillicons.dev)
 
 
