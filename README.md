@@ -7,8 +7,6 @@ My work is driven by:
 - **Content Management Proficiency:** With extensive experience in various CMS platforms, I streamline content workflows to empower editors and designers to tell their stories effortlessly.
 - **Attention to Visuals:** My background in visual media informs my eye for design, resulting in a nuanced approach to web aesthetics and interactivity.
 
-Here, you'll find a collection of my projects, demos, and explorations. Each repository reflects my commitment to continuous learning, attention to detail, and dedication to delivering thoughtful, high-quality code. Whether refining the backend of a CMS, building responsive frontends, or experimenting with new technologies, I'm always looking to expand my skill set and collaborate on projects that push boundaries.
-
 Let's build something beautiful and functional!
 
 
