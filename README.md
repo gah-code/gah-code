@@ -11,7 +11,7 @@ Let's build something beautiful and functional!
 
 
 ## Toolkit
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,redux,graphql,md,astro,supabase,wordpress,nextjs,vite,figma,netlify,npm,nodejs,obsidian,ps,typescript,postgres,tailwind,mongodb,cloudflare,emotion,notion,webpack,jest,d3&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,redux,graphql,md,astro,supabase,wordpress,nextjs,vite,figma,netlify,npm,nodejs,obsidian,ps,typescript,postgres,tailwind,mongodb,cloudflare,emotion,notion,webpack,jest,php,d3&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
