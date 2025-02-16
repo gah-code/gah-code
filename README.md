@@ -1,6 +1,6 @@
 # About
 
-Hi there! I'm a web developer with a knack for creative technical challenges, particularly in content management systems and design-driven development. My journey in tech started before the pandemic, rooted in a background in photography and film, which continues to shape my approach to development. I'm passionate about building digital experiences that are both functional and visually captivating.
+What's up! I'm a developer with a knack for creative technical challenges, particularly in content management systems and front-end architecture. My tech journey started before the pandemic and is rooted in years of experience in photography and editing, which continues to shape my approach to development in terms of design patterns. I'm passionate about building digital experiences that are both functional and visually captivating.
 
 My work is driven by:
 - **Creative Problem-Solving:** I thrive on projects that balance technical skill with a creative vision, leveraging design systems to enhance user experience and accessibility.
