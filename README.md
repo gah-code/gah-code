@@ -2,16 +2,11 @@
 
 What's up! I'm a developer with a knack for creative technical challenges, particularly in content management systems and front-end architecture. My tech journey started before the pandemic and is rooted in years of experience in photography and editing, which continues to shape my approach to development in terms of design patterns. I'm passionate about building digital experiences that are both functional and visually captivating.
 
-My work is driven by:
-- **Creative Problem-Solving:** I thrive on projects that balance technical skill with a creative vision, leveraging design systems to enhance user experience and accessibility.
-- **Content Management Proficiency:** With extensive experience in various CMS platforms, I streamline content workflows to empower editors and designers to tell their stories effortlessly.
-- **Attention to Visuals:** My background in visual media informs my eye for design, resulting in a nuanced approach to web aesthetics and interactivity.
-
 Let's build something beautiful and functional!
 
 
 ## Toolkit
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,redux,graphql,md,astro,supabase,wordpress,nextjs,vite,figma,netlify,npm,nodejs,obsidian,ps,typescript,postgres,tailwind,mongodb,cloudflare,emotion,notion,webpack,jest,php,d3&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,redux,graphql,md,supabase,wordpress,nextjs,vite,figma,netlify,npm,nodejs,obsidian,ps,typescript,postgres,tailwind,mongodb,cloudflare,emotion,notion,webpack,jest,php,d3&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
