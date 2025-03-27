@@ -6,7 +6,7 @@ Let's build something beautiful and functional!
 
 
 ## Toolkit
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,redux,graphql,md,supabase,wordpress,nextjs,vite,netlify,npm,nodejs,obsidian,ps,typescript,postgres,tailwind,mongodb,cloudflare,emotion,webpack,jest,php&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,styledcomponents,tailwind,redux,graphql,md,supabase,wordpress,nextjs,vite,netlify,npm,nodejs,obsidian,ps,typescript,postgres,mongodb,cloudflare,emotion,webpack,jest,php&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
