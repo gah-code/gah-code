@@ -1,6 +1,8 @@
 # About
 
-Dedicated frontend technologies with a knack for digging into creative technical challenges, particularly in content management systems, UIs, and front-end architecture. My tech journey started before the pandemic and is rooted in years of experience in photography and editing, which continues to shape my approach to development in terms of the look and feel. I'm passionate about building digital experiences that are both functional and visually captivating.
+Dedicated frontend technologies with a knack for digging into creative technical challenges, particularly in content management systems, UIs, and front-end architecture. 
+
+I'm passionate about building digital experiences that are both functional and visually captivating.
 
 
 Let's build something beautiful and functional!
