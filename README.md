@@ -1,13 +1,13 @@
 # About
 
-Dedicated frontend technologies with a knack for digging into creative technical challenges, particularly in content management systems, UIs, and front-end architecture. 
+Dedicated to web technologies with a knack for digging into creative technical challenges, particularly in content management systems, MarTech Tooling, UIs, and front-end web app architecture. 
 
 I'm passionate about building digital experiences that are both functional and visually captivating.
 
 
 
 ## Toolkit
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,postman,graphql,md,supabase,vite,obsidian,ps,typescript,python,postgres,styledcomponents,tailwind,babel,redux,wordpress,nextjs,netlify,npm,nodejs,mongodb,cloudflare,jest,bash&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,sass,postman,python,graphql,md,supabase,vite,obsidian,ps,typescript,postgres,styledcomponents,tailwind,redux,nextjs,netlify,npm,nodejs,mongodb,cloudflare,jest,bash&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
