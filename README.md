@@ -24,8 +24,5 @@ Web technologist with a focus on frontend development and system architecture. I
 <img src=https://img.shields.io/badge/figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" />
 </a>  
 
-  
-
-
 ----
 
