@@ -7,7 +7,7 @@ I'm passionate about building digital experiences that are both functional and v
 
 
 ## Toolkit
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,gatsby,sass,postman,python,graphql,md,supabase,vite,bash,nodejs,obsidian,ps,typescript,postgres,styledcomponents,tailwind,redux,nextjs,netlify,npm,mongodb,cloudflare&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,gatsby,sass,postman,python,graphql,md,postgres,supabase,vite,bash,nodejs,obsidian,ps,typescript,styledcomponents,tailwind,redux,nextjs,netlify,npm,mongodb,cloudflare&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
