@@ -1,9 +1,6 @@
 # About
 
-Dedicated to web technologies with a knack for digging into creative technical challenges, particularly in content management systems, MarTech Tooling, UIs, and front-end web app architecture. 
-
-I'm passionate about building digital experiences that are both functional and visually captivating.
-
+Web technologist with a focus on frontend development and system architecture. I’m into building high-performance, elegant user interfaces and everything content management systems. Always eager to keep learning and innovate in the coding space.
 
 
 ## Toolkit
