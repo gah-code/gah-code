@@ -4,7 +4,7 @@ Web technologist with a focus on frontend development and system architecture. I
 
 
 ## Toolkit
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,graphql,gatsby,sass,postman,nodejs,python,md,postgres,supabase,vite,bash,jest,obsidian,ps,typescript,styledcomponents,tailwind,redux,nextjs,netlify,npm,mongodb,cloudflare&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,graphql,nodejs,gatsby,sass,postman,python,md,postgres,supabase,vite,bash,jest,obsidian,ps,typescript,styledcomponents,tailwind,redux,nextjs,netlify,npm,mongodb,cloudflare&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
