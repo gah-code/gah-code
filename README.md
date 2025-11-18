@@ -1,6 +1,6 @@
 # About
 
-Web technologist with a focus on frontend development and system architecture. I’m into building high-performance, elegant user interfaces and everything content management systems. Always eager to keep learning and innovate in the coding space.
+Web technologist, coding things!
 
 
 ## Toolkit
