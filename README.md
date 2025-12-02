@@ -4,7 +4,7 @@ Web technologist, coding things!
 
 
 ## Toolkit
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,graphql,nodejs,gatsby,sass,postman,python,md,postgres,supabase,vite,bash,jest,obsidian,ps,typescript,styledcomponents,tailwind,redux,nextjs,netlify,npm,mongodb,cloudflare&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,graphql,nodejs,gatsby,sass,postman,python,md,postgres,supabase,vite,bash,jest,obsidian,ps,typescript,styledcomponents,tailwind,redux,nextjs,npm,anaconda,mongodb,cloudflare&perline=7)](https://skillicons.dev)
 
 
 ## Connect with me  
