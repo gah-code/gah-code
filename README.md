@@ -1,6 +1,6 @@
 # About
 
-Web technologist, coding things!
+Web Engineer & Technologist, coding, learning, life!
 
 
 ## Toolkit
