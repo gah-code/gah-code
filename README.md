@@ -2,6 +2,11 @@
 
 Web Engineer & Technologist, coding, learning, life!
 
+Frontend Design Systems
+Content Management Operations
+Marketing Technology
+AI-Driven Development
+
 
 ## Toolkit
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,graphql,nodejs,gatsby,sass,npm,postman,python,md,postgres,supabase,vite,bash,jest,obsidian,ps,typescript,git,styledcomponents,tailwind,redux,nextjs,anaconda,mongodb,cloudflare&perline=7)](https://skillicons.dev)
