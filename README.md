@@ -2,10 +2,10 @@
 
 Web Engineer & Technologist, coding, learning, life!
 
-Frontend Design Systems
-Content Management Operations
-Marketing Technology
-AI-Driven Development
+- Frontend Design Systems
+- Content Management Operations
+- Marketing Technology
+- AI-Driven Development
 
 
 ## Toolkit
