@@ -38,7 +38,7 @@ I focus on building **scalable frontend architectures**, **content-driven platfo
 - Performance, accessibility, and clarity as defaults  
 - Continuous learning through real projects and experiments  
 
-Many of my repositories reflect **in-progress thinking**, experiments, or reusable internal tooling—not just polished demos.
+Many of my repositories reflect **in-progress thinking**, experiments, or reusable tooling, not just polished demos.
 
 ---
 
@@ -61,15 +61,3 @@ Many of my repositories reflect **in-progress thinking**, experiments, or reusab
 </a>
 
 ---
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gah-code&show_icons=true&theme=transparent&hide_title=true" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gah-code&layout=compact&theme=transparent" height="150" />
-
-</div>
-
-
